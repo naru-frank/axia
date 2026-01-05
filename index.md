@@ -10,6 +10,7 @@ axia は、個人的に使用する **プロンプトおよび前提資料の参
 
 ## index
 - [theo01](./theo01.md)
+- [theo02](./theo02.md)
 - [saki](./saki.md)
 
 ---
