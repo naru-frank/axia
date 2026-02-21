@@ -6,7 +6,7 @@
 
 ## このファイルの扱い方
 
-- **場所**: `~/claude_config.md`（ホームフォルダ直下）
+- **場所**: `(https://github.com/naru-frank/axia/edit/main/ob.md)`
 - **編集**: テキストエディタで直接編集してよい
 - **参照指示の例**:
   - 「設定ファイルを読んで、ObsidianのセクションのルールでVaultを更新して」
@@ -20,8 +20,9 @@
 
 ### 作業開始前に必ずやること
 
-1. `_Claude/技術メモ_ObsidianPatch仕様.md` を `mcp-obsidian:obsidian_get_file_contents` で読む
-2. 仕様を確認してから操作に入る
+1. Obsidianのアプリを起動しMCPが使えるか確認→だめなら警告文を出す
+2. `_Claude/技術メモ_ObsidianPatch仕様.md` を `mcp-obsidian:obsidian_get_file_contents` で読む
+3. 仕様を確認してから操作に入る
 
 ### 使うツール
 
